@@ -13,7 +13,7 @@
         left: 0;
         top: -20%;
         max-width: 100vw;
-        padding: 30px;
+        padding: 25px;
     }
 
     .conteudo .nome-personagem {
@@ -41,6 +41,10 @@
         height: auto;
     }
 
+    .conteudo {
+        top: -30%;
+    }
+
     .conteudo .logo {
         width: 170px;
         height: 75px;
@@ -57,7 +61,7 @@
     }
 
     .botoes {
-        padding: 0 20px 50px 20px;
+        padding: 0 20px 60px 20px;
         top: -20px;
     }
 
